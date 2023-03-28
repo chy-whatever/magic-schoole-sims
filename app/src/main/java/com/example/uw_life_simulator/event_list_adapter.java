@@ -12,6 +12,8 @@ public class event_list_adapter extends RecyclerView.Adapter<event_list_adapter.
     private static final String TAG = "event_list_adapter";
     private String[] localDataSet;
 
+    
+
     /**
      * Provide a reference to the type of views that you are using
      * (custom ViewHolder).
